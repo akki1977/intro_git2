@@ -1,2 +1,2 @@
 ２　基本的なワークフローを学びます。
-３　.git add git commit git rm
+３　.git add git commit git status
